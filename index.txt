@@ -1,0 +1,35 @@
+[
+  {
+    "fw_id": "demogit",
+    "device_type": "DDGT_H",
+    "version": "v1",
+    "path": "/demogit/FW.bin",
+    "md5": "3d87d95eec121d123757c93e2444810b",
+    "path_bootloader": "/demogit/BOTL.bin",
+    "md5_bootloader": "da6f573ef4bd2be65e214c9b50e166e8",
+    "path_partition": "/demogit/PART.bin",
+    "md5_partition": "801ba71678a964614657a6d8fbc6baca"
+  },
+  {
+    "fw_id": "phuc",
+    "device_type": "ESP32",
+    "version": "1.0.2",
+    "path": "/phuc/FW.bin",
+    "md5": "fc21d12c8ee87448e818b395eff3b98f",
+    "path_bootloader": "/phuc/BOTL.bin",
+    "md5_bootloader": "48803ef6e9053ee9db45a0ccc6a57690",
+    "path_partition": "/phuc/PART.bin",
+    "md5_partition": "5d61d196adc3dba01928f264eb169be7"
+  },
+  {
+    "fw_id": "ttp_01",
+    "device_type": "MAY_NAP",
+    "version": "1.0.0",
+    "path": "/ttp_01/FW.bin",
+    "md5": "fc21d12c8ee87448e818b395eff3b98f",
+    "path_bootloader": "/ttp_01/BOTL.bin",
+    "md5_bootloader": "b4753735b9a58e289d1ad890afd638f9",
+    "path_partition": "/ttp_01/PART.bin",
+    "md5_partition": "5d61d196adc3dba01928f264eb169be7"
+  }
+]
