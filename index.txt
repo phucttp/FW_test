@@ -1,13 +1,1 @@
-[
-  {
-    "fw_id": "p01",
-    "device_type": "demo01",
-    "version": "v1",
-    "path": "/p01/FW.bin",
-    "md5": "b33546d26b53d14ce95821ba4f6e058e",
-    "path_bootloader": "/p01/BOTL.bin",
-    "md5_bootloader": "2e9c0f2856aa7b587d739ed4060392a2",
-    "path_partition": "/p01/PART.bin",
-    "md5_partition": "5d61d196adc3dba01928f264eb169be7"
-  }
-]
+[]
