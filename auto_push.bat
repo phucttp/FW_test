@@ -4,7 +4,7 @@
                         echo ==========================================
                         echo      DANG DAY CODE LEN GITHUB...
                         echo ==========================================
-                        echo Repo: https://phucttp@github.com/phucttp/FW_Lib.git
+                        echo Repo: https://PPhucNAME@github.com/PPhucNAME/hehe.git
                         echo.
                         cd /d "C:\Users\DELL\workspace\ESP32\toolAddFirmware\_release_for_git"
                         if not exist .git (
@@ -18,7 +18,7 @@
                         git commit -m "Auto update via FlashPorter Tool"
                         echo [Remote Config]...
                         git remote remove origin >nul 2>&1
-                        git remote add origin https://phucttp@github.com/phucttp/FW_Lib.git
+                        git remote add origin https://PPhucNAME@github.com/PPhucNAME/hehe.git
                         echo [Pushing]...
                         echo (Neu la lan dau, Windows se hien popup dang nhap)
                         git push -u origin main --force
