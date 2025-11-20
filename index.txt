@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "fw_id": "devttp01",
+    "device_type": "Phost",
+    "version": "v1",
+    "path": "/devttp01/FW.bin",
+    "md5": "6fa2a8fb7d41e2cec84e379edbe6bf1e",
+    "path_bootloader": "/devttp01/BOTL.bin",
+    "md5_bootloader": "da6f573ef4bd2be65e214c9b50e166e8",
+    "path_partition": "/devttp01/PART.bin",
+    "md5_partition": "801ba71678a964614657a6d8fbc6baca"
+  }
+]
