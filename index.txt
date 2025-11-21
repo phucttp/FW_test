@@ -3,25 +3,11 @@
     "fw_id": "phuc01",
     "device_type": "4_nut",
     "version": "v2",
-    "path": "phuc01/FW.enc",
-    "md5": "4fe199661c075156cc811d6f8f2d95d4",
-    "path_bootloader": "phuc01/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "phuc01/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c"
-  },
-  {
-    "fw_id": "phuc02",
-    "device_type": "mbh",
-    "version": "v1",
-    "path": "phuc02/FW.enc",
-    "md5": "82349c52455a83282898ceb8125bdb62",
-    "path_bootloader": "phuc02/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "phuc02/PART.enc",
-    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
-    "md5_padded": "82349c52455a83282898ceb8125bdb62",
-    "md5_bootloader_padded": "bd0635cfa246da005cc26ad81dbe5602",
-    "md5_partition_padded": "5d98cd1382fec9da0a0251f035901fe0"
+    "path": "/phuc01/FW.bin",
+    "md5": "9460feda663e8a4f1cc8166f75164257",
+    "path_bootloader": "/phuc01/BOTL.bin",
+    "md5_bootloader": "da6f573ef4bd2be65e214c9b50e166e8",
+    "path_partition": "/phuc01/PART.bin",
+    "md5_partition": "801ba71678a964614657a6d8fbc6baca"
   }
 ]
