@@ -3,11 +3,11 @@
     "fw_id": "phuc02",
     "device_type": "mbh",
     "version": "v1",
-    "path": "phuc02/FW.enc",
+    "path": "/phuc02/FW.enc",
     "md5": "82349c52455a83282898ceb8125bdb62",
-    "path_bootloader": "phuc02/BOTL.enc",
+    "path_bootloader": "/phuc02/BOTL.enc",
     "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "phuc02/PART.enc",
+    "path_partition": "/phuc02/PART.enc",
     "md5_partition": "5d98cd1382fec9da0a0251f035901fe0"
   }
 ]
