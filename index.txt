@@ -20,5 +20,16 @@
     "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
     "path_partition": "phuc02/PART.enc",
     "md5_partition": "5d98cd1382fec9da0a0251f035901fe0"
+  },
+  {
+    "fw_id": "phuc03",
+    "device_type": "DDGS",
+    "version": "v1",
+    "path": "phuc03/FW.enc",
+    "md5": "00b0015afce153bf519a44c176b87683",
+    "path_bootloader": "phuc03/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "phuc03/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c"
   }
 ]
