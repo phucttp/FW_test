@@ -31,5 +31,16 @@
     "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
     "path_partition": "phuc03/PART.enc",
     "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c"
+  },
+  {
+    "fw_id": "phuc04",
+    "device_type": "DDGT",
+    "version": "v1",
+    "path": "phuc04/FW.enc",
+    "md5": "579ae7f618e7fd7608c890b95679b9c9",
+    "path_bootloader": "phuc04/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "phuc04/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c"
   }
 ]
