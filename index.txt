@@ -32,5 +32,22 @@
       "description": "Feature WiFi, Vertical, Hardware QRBox v0.2, Capacitive.",
       "status": "stable"
     }
+  },
+  {
+    "fw_id": "FW003",
+    "device_type": "VIV",
+    "version": "VER_2",
+    "path": "FW003/FW.enc",
+    "md5": "82349c52455a83282898ceb8125bdb62",
+    "path_bootloader": "FW003/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW003/PART.enc",
+    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
+    "cloud_source": {
+      "customer_id": "VENDING_ID_VHI",
+      "version": "VER_2-2.2.1",
+      "description": "MÃ£ Ä‘áº§u VHI, Há»— trá»£ 4G",
+      "status": "beta"
+    }
   }
 ]
