@@ -1,126 +1,19 @@
 [
   {
-    "fw_id": "gap_thu_dien_dung_v2.1.1_qr_claw_machine_h",
+    "fw_id": "FW001",
     "device_type": "GAP_THU_DIEN_DUNG",
     "version": "v2.1.1_QR_CLAW_MACHINE_H",
-    "path": "gap_thu_dien_dung_v2.1.1_qr_claw_machine_h/FW.enc",
+    "path": "FW001/FW.enc",
     "md5": "a03ada19a35f75370343bd58791b5981",
-    "path_bootloader": "gap_thu_dien_dung_v2.1.1_qr_claw_machine_h/BOTL.enc",
+    "path_bootloader": "FW001/BOTL.enc",
     "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "gap_thu_dien_dung_v2.1.1_qr_claw_machine_h/PART.enc",
+    "path_partition": "FW001/PART.enc",
     "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
     "cloud_source": {
       "customer_id": "GAP_THU_DIEN_DUNG",
       "version": "v2.1.1_QR_CLAW_MACHINE_H",
       "description": "Feature WiFi, Horizontal, Hardware QRBox v0.2, Capacitive.",
       "status": "stable"
-    }
-  },
-  {
-    "fw_id": "giat_say_dien_dung_v2.0.0_dryer_and_wash",
-    "device_type": "GIAT_SAY_DIEN_DUNG",
-    "version": "v2.0.0_DRYER_AND_WASH",
-    "path": "giat_say_dien_dung_v2.0.0_dryer_and_wash/FW.enc",
-    "md5": "00b0015afce153bf519a44c176b87683",
-    "path_bootloader": "giat_say_dien_dung_v2.0.0_dryer_and_wash/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "giat_say_dien_dung_v2.0.0_dryer_and_wash/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "cloud_source": {
-      "customer_id": "GIAT_SAY_DIEN_DUNG",
-      "version": "v2.0.0_DRYER_AND_WASH",
-      "description": "Hardware QRBOX v0.2.",
-      "status": "stable"
-    }
-  },
-  {
-    "fw_id": "phuc01",
-    "device_type": "4nut",
-    "version": "v1",
-    "path": "phuc01/FW.enc",
-    "md5": "4fe199661c075156cc811d6f8f2d95d4",
-    "path_bootloader": "phuc01/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "phuc01/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "md5_padded": "4fe199661c075156cc811d6f8f2d95d4",
-    "md5_bootloader_padded": "bd0635cfa246da005cc26ad81dbe5602",
-    "md5_partition_padded": "e29d9e794a2e44c3007b6284e6dd576c"
-  },
-  {
-    "fw_id": "phuc02",
-    "device_type": "mbh",
-    "version": "v1",
-    "path": "phuc02/FW.enc",
-    "md5": "82349c52455a83282898ceb8125bdb62",
-    "path_bootloader": "phuc02/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "phuc02/PART.enc",
-    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
-    "md5_padded": "82349c52455a83282898ceb8125bdb62",
-    "md5_bootloader_padded": "bd0635cfa246da005cc26ad81dbe5602",
-    "md5_partition_padded": "5d98cd1382fec9da0a0251f035901fe0"
-  },
-  {
-    "fw_id": "phuc03",
-    "device_type": "DDGS",
-    "version": "v1",
-    "path": "phuc03/FW.enc",
-    "md5": "00b0015afce153bf519a44c176b87683",
-    "path_bootloader": "phuc03/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "phuc03/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "md5_padded": "00b0015afce153bf519a44c176b87683",
-    "md5_bootloader_padded": "bd0635cfa246da005cc26ad81dbe5602",
-    "md5_partition_padded": "e29d9e794a2e44c3007b6284e6dd576c"
-  },
-  {
-    "fw_id": "phuc04",
-    "device_type": "DDGT",
-    "version": "v1",
-    "path": "phuc04/FW.enc",
-    "md5": "579ae7f618e7fd7608c890b95679b9c9",
-    "path_bootloader": "phuc04/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "phuc04/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "md5_padded": "579ae7f618e7fd7608c890b95679b9c9",
-    "md5_bootloader_padded": "bd0635cfa246da005cc26ad81dbe5602",
-    "md5_partition_padded": "e29d9e794a2e44c3007b6284e6dd576c"
-  },
-  {
-    "fw_id": "vending_id_vhi_mdb_0.0.12_rfid",
-    "device_type": "VENDING_ID_VHI",
-    "version": "MDB_0.0.12_RFID",
-    "path": "vending_id_vhi_mdb_0.0.12_rfid/FW.enc",
-    "md5": "3b49023ae67c422c396aefe95d61ad52",
-    "path_bootloader": "vending_id_vhi_mdb_0.0.12_rfid/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "vending_id_vhi_mdb_0.0.12_rfid/PART.enc",
-    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
-    "cloud_source": {
-      "customer_id": "VENDING_ID_VHI",
-      "version": "MDB_0.0.12_RFID",
-      "description": "FW sá»­ dá»¥ng tháº» ná»™i bá»™, khÃ´ng dÃ¹ng Ä‘Æ°á»£c 4G.",
-      "status": "stable"
-    }
-  },
-  {
-    "fw_id": "vending_id_vhi_ver_2-2.2.1",
-    "device_type": "VENDING_ID_VHI",
-    "version": "VER_2-2.2.1",
-    "path": "vending_id_vhi_ver_2-2.2.1/FW.enc",
-    "md5": "82349c52455a83282898ceb8125bdb62",
-    "path_bootloader": "vending_id_vhi_ver_2-2.2.1/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "vending_id_vhi_ver_2-2.2.1/PART.enc",
-    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
-    "cloud_source": {
-      "customer_id": "VENDING_ID_VHI",
-      "version": "VER_2-2.2.1",
-      "description": "MÃ£ Ä‘áº§u VHI, Há»— trá»£ 4G",
-      "status": "beta"
     }
   }
 ]
