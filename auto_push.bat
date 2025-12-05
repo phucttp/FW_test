@@ -6,7 +6,7 @@
                         echo ==========================================
                         echo Repo: https://PPhucNAME@github.com/PPhucNAME/hehe.git
                         echo.
-                        cd /d "C:\Users\DELL\workspace\ESP32\toolAddFirmware\_release_for_git"
+                        cd /d "C:\Users\DELL\workspace\IDF\ESP_MUL\Muti\toolAddFirmware\_release_for_git"
                         if not exist .git (
                             echo [Init Git]...
                             git init
