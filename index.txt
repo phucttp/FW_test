@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "fw_id": "FW001",
+    "device_type": "GTDD",
+    "version": "v2.1_H",
+    "path": "FW001/FW.enc",
+    "md5": "a03ada19a35f75370343bd58791b5981",
+    "path_bootloader": "FW001/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW001/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "GAP_THU_DIEN_DUNG",
+      "version": "v2.1.1_QR_CLAW_MACHINE_H",
+      "description": "Feature WiFi, Horizontal, Hardware QRBox v0.2, Capacitive.",
+      "status": "stable"
+    }
+  },
+  {
+    "fw_id": "FW002",
+    "device_type": "GTDD",
+    "version": "v2.1_V",
+    "path": "FW002/FW.enc",
+    "md5": "579ae7f618e7fd7608c890b95679b9c9",
+    "path_bootloader": "FW002/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW002/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "GAP_THU_DIEN_DUNG",
+      "version": "v2.1.1_QR_CLAW_MACHINE_V",
+      "description": "Feature WiFi, Vertical, Hardware QRBox v0.2, Capacitive.",
+      "status": "stable"
+    }
+  }
+]
