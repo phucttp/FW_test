@@ -49,5 +49,22 @@
       "description": "MÃ£ Ä‘áº§u VHI, Há»— trá»£ 4G",
       "status": "beta"
     }
+  },
+  {
+    "fw_id": "FW004",
+    "device_type": "Q4B",
+    "version": "v0.1",
+    "path": "FW004/FW.enc",
+    "md5": "4fe199661c075156cc811d6f8f2d95d4",
+    "path_bootloader": "FW004/BOTL.enc",
+    "md5_bootloader": "045226077d11092f00382c4d75a19a9c",
+    "path_partition": "FW004/PART.enc",
+    "md5_partition": "06409ce18ef9a01088dfcef7aa010f79",
+    "cloud_source": {
+      "customer_id": "QR_4_BUTTON",
+      "version": "v0.1.5_CLIENT_VHITEK_DT",
+      "description": "Máº¶T Dá»ŒC, OUTPUT TIMER.",
+      "status": "stable"
+    }
   }
 ]
