@@ -19,25 +19,6 @@
     "_folder_name": "FW005"
   },
   {
-    "fw_id": "FW006",
-    "device_type": "VVF",
-    "version": "v1.5",
-    "path": "FW006/FW.enc",
-    "md5": "b5aa34823c228d412aacd45c5d39e5cb",
-    "path_bootloader": "FW006/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "FW006/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "cloud_source": {
-      "customer_id": "VENDING_V3_FRONTEND",
-      "version": "v1.5.4_VENDING_V3",
-      "description": "Fix the number of digits, fix screen turn off.",
-      "status": "stable"
-    },
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW006",
-    "_folder_name": "FW006"
-  },
-  {
     "fw_id": "FW007",
     "device_type": "VVF",
     "version": "v1.3",
