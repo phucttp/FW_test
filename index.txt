@@ -1,7 +1,7 @@
 [
   {
     "fw_id": "FW005",
-    "device_type": "4nút",
+    "device_type": "4nut",
     "version": "v0.1",
     "path": "FW005/FW.enc",
     "md5": "6e6265b074661676b33b40fcac3a4be8",
