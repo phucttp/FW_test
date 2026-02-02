@@ -112,5 +112,19 @@
     },
     "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW013",
     "_folder_name": "FW013"
+  },
+  {
+    "fw_id": "TTP27",
+    "device_type": "FLASHPOD",
+    "version": "V1.0.0",
+    "description": "Thiết bị nạp FW cho ESP32",
+    "path": "TTP27/FW.enc",
+    "md5": "6e6265b074661676b33b40fcac3a4be8",
+    "path_bootloader": "TTP27/BOTL.enc",
+    "md5_bootloader": "045226077d11092f00382c4d75a19a9c",
+    "path_partition": "TTP27/PART.enc",
+    "md5_partition": "06409ce18ef9a01088dfcef7aa010f79",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\TTP27",
+    "_folder_name": "TTP27"
   }
 ]
