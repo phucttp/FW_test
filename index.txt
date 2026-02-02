@@ -112,43 +112,5 @@
     },
     "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW013",
     "_folder_name": "FW013"
-  },
-  {
-    "fw_id": "FW015",
-    "device_type": "GTDD",
-    "version": "v2.1_H",
-    "path": "FW015/FW.enc",
-    "md5": "a03ada19a35f75370343bd58791b5981",
-    "path_bootloader": "FW015/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "FW015/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "cloud_source": {
-      "customer_id": "GAP_THU_DIEN_DUNG",
-      "version": "v2.1.1_QR_CLAW_MACHINE_H",
-      "description": "Feature WiFi, Horizontal, Hardware QRBox v0.2, Capacitive.",
-      "status": "stable"
-    },
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW015",
-    "_folder_name": "FW015"
-  },
-  {
-    "fw_id": "FW017",
-    "device_type": "GTDD",
-    "version": "v2.1_V",
-    "path": "FW017/FW.enc",
-    "md5": "579ae7f618e7fd7608c890b95679b9c9",
-    "path_bootloader": "FW017/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "FW017/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "cloud_source": {
-      "customer_id": "GAP_THU_DIEN_DUNG",
-      "version": "v2.1.1_QR_CLAW_MACHINE_V",
-      "description": "Feature WiFi, Vertical, Hardware QRBox v0.2, Capacitive.",
-      "status": "stable"
-    },
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW017",
-    "_folder_name": "FW017"
   }
 ]
