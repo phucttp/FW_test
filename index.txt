@@ -32,5 +32,195 @@
       "description": "MÃ£ Ä‘áº§u VHI, Há»— trá»£ 4G",
       "status": "beta"
     }
+  },
+  {
+    "fw_id": "FW004",
+    "device_type": "VIV",
+    "version": "VER_2",
+    "path": "FW004/FW.enc",
+    "md5": "2ea7f5a98169c513d0829acfef5b30d7",
+    "path_bootloader": "FW004/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW004/PART.enc",
+    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
+    "cloud_source": {
+      "customer_id": "VENDING_ID_VHI",
+      "version": "VER_2-2.2.1c-VHI",
+      "description": "Mã đầu VHI, Hỗ trợ 4G, uncomment clear cashbox, sensor drop.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW004",
+    "_folder_name": "FW004"
+  },
+  {
+    "fw_id": "FW005",
+    "device_type": "Q4B",
+    "version": "v0.1",
+    "path": "FW005/FW.enc",
+    "md5": "6e6265b074661676b33b40fcac3a4be8",
+    "path_bootloader": "FW005/BOTL.enc",
+    "md5_bootloader": "045226077d11092f00382c4d75a19a9c",
+    "path_partition": "FW005/PART.enc",
+    "md5_partition": "06409ce18ef9a01088dfcef7aa010f79",
+    "cloud_source": {
+      "customer_id": "QR_4_BUTTON",
+      "version": "v0.1.5_CLIENT_VHITEK_NP",
+      "description": "MẶT NGANG, OUTPUT XUNG.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW005",
+    "_folder_name": "FW005"
+  },
+  {
+    "fw_id": "FW006",
+    "device_type": "VVF",
+    "version": "v1.5",
+    "path": "FW006/FW.enc",
+    "md5": "b5aa34823c228d412aacd45c5d39e5cb",
+    "path_bootloader": "FW006/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW006/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "VENDING_V3_FRONTEND",
+      "version": "v1.5.4_VENDING_V3",
+      "description": "Fix the number of digits, fix screen turn off.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW006",
+    "_folder_name": "FW006"
+  },
+  {
+    "fw_id": "FW007",
+    "device_type": "VVF",
+    "version": "v1.3",
+    "path": "FW007/FW.enc",
+    "md5": "95377dba49c58deaa89b5fd9fba2ac64",
+    "path_bootloader": "FW007/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW007/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "VENDING_V3_FRONTEND",
+      "version": "v1.3.1_VENDING_V3",
+      "description": "Feature WiFi, default OC 1500mA, option pay via MPOS.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW007",
+    "_folder_name": "FW007"
+  },
+  {
+    "fw_id": "FW008",
+    "device_type": "VVF",
+    "version": "v1.5",
+    "path": "FW008/FW.enc",
+    "md5": "b5aa34823c228d412aacd45c5d39e5cb",
+    "path_bootloader": "FW008/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW008/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "VENDING_V3_FRONTEND",
+      "version": "v1.5.4_VENDING_V3",
+      "description": "Fix the number of digits, fix screen turn off.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW008",
+    "_folder_name": "FW008"
+  },
+  {
+    "fw_id": "FW009",
+    "device_type": "VIV",
+    "version": "MDB_0",
+    "path": "FW009/FW.enc",
+    "md5": "3b49023ae67c422c396aefe95d61ad52",
+    "path_bootloader": "FW009/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW009/PART.enc",
+    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
+    "cloud_source": {
+      "customer_id": "VENDING_ID_VHI",
+      "version": "MDB_0.0.12_RFID",
+      "description": "FW sử dụng thẻ nội bộ, không dùng được 4G.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW009",
+    "_folder_name": "FW009"
+  },
+  {
+    "fw_id": "FW010",
+    "device_type": "VIV",
+    "version": "VER_2",
+    "path": "FW010/FW.enc",
+    "md5": "82349c52455a83282898ceb8125bdb62",
+    "path_bootloader": "FW010/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW010/PART.enc",
+    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
+    "cloud_source": {
+      "customer_id": "VENDING_ID_VHI",
+      "version": "VER_2-2.2.1",
+      "description": "Mã đầu VHI, Hỗ trợ 4G",
+      "status": "beta"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW010",
+    "_folder_name": "FW010"
+  },
+  {
+    "fw_id": "FW013",
+    "device_type": "VMDD",
+    "version": "v1.1",
+    "path": "FW013/FW.enc",
+    "md5": "1a64f661af3882c268592900ab44ec57",
+    "path_bootloader": "FW013/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW013/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "VENDING_MINI_DIEN_DUNG",
+      "version": "v1.1.2_VENDING_MINI_MACHINE",
+      "description": "Support 48 slot, WiFi, QR Box v0.2",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW013",
+    "_folder_name": "FW013"
+  },
+  {
+    "fw_id": "FW015",
+    "device_type": "GTDD",
+    "version": "v2.1_H",
+    "path": "FW015/FW.enc",
+    "md5": "a03ada19a35f75370343bd58791b5981",
+    "path_bootloader": "FW015/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW015/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "GAP_THU_DIEN_DUNG",
+      "version": "v2.1.1_QR_CLAW_MACHINE_H",
+      "description": "Feature WiFi, Horizontal, Hardware QRBox v0.2, Capacitive.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW015",
+    "_folder_name": "FW015"
+  },
+  {
+    "fw_id": "FW017",
+    "device_type": "GTDD",
+    "version": "v2.1_V",
+    "path": "FW017/FW.enc",
+    "md5": "579ae7f618e7fd7608c890b95679b9c9",
+    "path_bootloader": "FW017/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW017/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "GAP_THU_DIEN_DUNG",
+      "version": "v2.1.1_QR_CLAW_MACHINE_V",
+      "description": "Feature WiFi, Vertical, Hardware QRBox v0.2, Capacitive.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW017",
+    "_folder_name": "FW017"
   }
 ]
