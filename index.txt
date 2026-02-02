@@ -1,26 +1,7 @@
 [
   {
-    "fw_id": "FW004",
-    "device_type": "VIV",
-    "version": "VER_2",
-    "path": "FW004/FW.enc",
-    "md5": "2ea7f5a98169c513d0829acfef5b30d7",
-    "path_bootloader": "FW004/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "FW004/PART.enc",
-    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
-    "cloud_source": {
-      "customer_id": "VENDING_ID_VHI",
-      "version": "VER_2-2.2.1c-VHI",
-      "description": "Mã đầu VHI, Hỗ trợ 4G, uncomment clear cashbox, sensor drop.",
-      "status": "stable"
-    },
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW004",
-    "_folder_name": "FW004"
-  },
-  {
     "fw_id": "FW005",
-    "device_type": "Q4B",
+    "device_type": "4nút",
     "version": "v0.1",
     "path": "FW005/FW.enc",
     "md5": "6e6265b074661676b33b40fcac3a4be8",
