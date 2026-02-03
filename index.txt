@@ -1,5 +1,24 @@
 [
   {
+    "fw_id": "FW001",
+    "device_type": "GSDD",
+    "version": "v2.3",
+    "path": "FW001/FW.enc",
+    "md5": "afcb510c1079887996e77690cdf96fb5",
+    "path_bootloader": "FW001/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW001/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "GIAT_SAY_DIEN_DUNG",
+      "version": "v2.3.0_DRYER_AND_WASHER",
+      "description": "Add enable read pulse and out pulse read.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW001",
+    "_folder_name": "FW001"
+  },
+  {
     "fw_id": "FW005",
     "device_type": "4nut",
     "version": "v0.1",
