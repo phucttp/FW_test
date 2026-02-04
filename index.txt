@@ -39,7 +39,7 @@
   },
   {
     "fw_id": "FW007",
-    "device_type": "VENDING_V3_FR",
+    "device_type": "VEND_V3_FR",
     "version": "v1.3",
     "path": "FW007/FW.enc",
     "md5": "95377dba49c58deaa89b5fd9fba2ac64",
