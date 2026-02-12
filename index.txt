@@ -1,5 +1,19 @@
 [
   {
+    "fw_id": "F100",
+    "device_type": "STM32F411",
+    "version": "V1",
+    "description": "DEMO NAP",
+    "path": "F100/FW.bin",
+    "md5": "3b6472a1725b2d36f48e23c43239d1bb",
+    "path_bootloader": "",
+    "md5_bootloader": "",
+    "path_partition": "",
+    "md5_partition": "",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F100",
+    "_folder_name": "F100"
+  },
+  {
     "fw_id": "FW001",
     "device_type": "GSDD",
     "version": "v2.3",
