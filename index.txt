@@ -14,6 +14,20 @@
     "_folder_name": "F100"
   },
   {
+    "fw_id": "F101",
+    "device_type": "STM32F1",
+    "version": "v1",
+    "description": "demo fw",
+    "path": "F101/FW.bin",
+    "md5": "52c39e8fde66a95b415e2ad4e9e99953",
+    "path_bootloader": "",
+    "md5_bootloader": "",
+    "path_partition": "",
+    "md5_partition": "",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F101",
+    "_folder_name": "F101"
+  },
+  {
     "fw_id": "FW001",
     "device_type": "GSDD",
     "version": "v2.3",
