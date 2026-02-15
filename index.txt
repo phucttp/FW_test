@@ -28,6 +28,20 @@
     "_folder_name": "F101"
   },
   {
+    "fw_id": "F103",
+    "device_type": "STM32",
+    "version": "PWM",
+    "description": "PWM led",
+    "path": "F103/FW.bin",
+    "md5": "76eb138af449fc61a38f5a89fc816184",
+    "path_bootloader": "",
+    "md5_bootloader": "",
+    "path_partition": "",
+    "md5_partition": "",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F103",
+    "_folder_name": "F103"
+  },
+  {
     "fw_id": "FW001",
     "device_type": "GSDD",
     "version": "v2.3",
