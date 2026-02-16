@@ -56,6 +56,20 @@
     "_folder_name": "F105"
   },
   {
+    "fw_id": "F120",
+    "device_type": "STM32",
+    "version": "TEST",
+    "description": "DEMO",
+    "path": "F120/FW.bin",
+    "md5": "79acd3ee37f1bf52c28b6faa28756fc3",
+    "path_bootloader": "",
+    "md5_bootloader": "",
+    "path_partition": "",
+    "md5_partition": "",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F120",
+    "_folder_name": "F120"
+  },
+  {
     "fw_id": "FW001",
     "device_type": "GSDD",
     "version": "v2.3",

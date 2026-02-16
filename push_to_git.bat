@@ -6,7 +6,7 @@ echo      PUSHING FIRMWARE TO GIT
 echo ==========================================
 echo Repo: https://phucttp@github.com/phucttp/FW_test.git
 echo.
-cd /d "c:\Users\DELL\workspace\IDF\ESP_MUL\Muti\toolAddFirmware\_release_for_git"
+cd /d "C:\Users\DELL\workspace\IDF\ESP_MUL\Muti\toolAddFirmware\_release_for_git"
 
 if not exist .git (
     echo [Init Git]...
