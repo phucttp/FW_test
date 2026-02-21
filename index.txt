@@ -1,47 +1,5 @@
 [
   {
-    "fw_id": "F100",
-    "device_type": "STM32F411",
-    "version": "V1",
-    "description": "blink led",
-    "path": "F100/FW.bin",
-    "md5": "56d59300162f33438cbb469fc766a5d8",
-    "path_bootloader": "",
-    "md5_bootloader": "",
-    "path_partition": "",
-    "md5_partition": "",
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F100",
-    "_folder_name": "F100"
-  },
-  {
-    "fw_id": "F101",
-    "device_type": "STM32F1",
-    "version": "v1",
-    "description": "demo fw",
-    "path": "F101/FW.bin",
-    "md5": "52c39e8fde66a95b415e2ad4e9e99953",
-    "path_bootloader": "",
-    "md5_bootloader": "",
-    "path_partition": "",
-    "md5_partition": "",
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F101",
-    "_folder_name": "F101"
-  },
-  {
-    "fw_id": "F103",
-    "device_type": "STM32",
-    "version": "PWM",
-    "description": "PWM led",
-    "path": "F103/FW.bin",
-    "md5": "76eb138af449fc61a38f5a89fc816184",
-    "path_bootloader": "",
-    "md5_bootloader": "",
-    "path_partition": "",
-    "md5_partition": "",
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F103",
-    "_folder_name": "F103"
-  },
-  {
     "fw_id": "F105",
     "device_type": "STM32",
     "version": "NHIP TIM",
@@ -70,63 +28,6 @@
     "_folder_name": "F120"
   },
   {
-    "fw_id": "FW001",
-    "device_type": "GSDD",
-    "version": "v2.3",
-    "path": "FW001/FW.enc",
-    "md5": "afcb510c1079887996e77690cdf96fb5",
-    "path_bootloader": "FW001/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "FW001/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "cloud_source": {
-      "customer_id": "GIAT_SAY_DIEN_DUNG",
-      "version": "v2.3.0_DRYER_AND_WASHER",
-      "description": "Add enable read pulse and out pulse read.",
-      "status": "stable"
-    },
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW001",
-    "_folder_name": "FW001"
-  },
-  {
-    "fw_id": "FW005",
-    "device_type": "4nut",
-    "version": "v0.1",
-    "path": "FW005/FW.enc",
-    "md5": "6e6265b074661676b33b40fcac3a4be8",
-    "path_bootloader": "FW005/BOTL.enc",
-    "md5_bootloader": "045226077d11092f00382c4d75a19a9c",
-    "path_partition": "FW005/PART.enc",
-    "md5_partition": "06409ce18ef9a01088dfcef7aa010f79",
-    "cloud_source": {
-      "customer_id": "QR_4_BUTTON",
-      "version": "v0.1.5_CLIENT_VHITEK_NP",
-      "description": "MẶT NGANG, OUTPUT XUNG.",
-      "status": "stable"
-    },
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW005",
-    "_folder_name": "FW005"
-  },
-  {
-    "fw_id": "FW007",
-    "device_type": "VEND_V3_FR",
-    "version": "v1.3",
-    "path": "FW007/FW.enc",
-    "md5": "95377dba49c58deaa89b5fd9fba2ac64",
-    "path_bootloader": "FW007/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "FW007/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "cloud_source": {
-      "customer_id": "VENDING_V3_FRONTEND",
-      "version": "v1.3.1_VENDING_V3",
-      "description": "Feature WiFi, default OC 1500mA, option pay via MPOS.",
-      "status": "stable"
-    },
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW007",
-    "_folder_name": "FW007"
-  },
-  {
     "fw_id": "FW008",
     "device_type": "VVF",
     "version": "v1.5",
@@ -144,25 +45,6 @@
     },
     "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW008",
     "_folder_name": "FW008"
-  },
-  {
-    "fw_id": "FW009",
-    "device_type": "VIV",
-    "version": "MDB_0",
-    "path": "FW009/FW.enc",
-    "md5": "3b49023ae67c422c396aefe95d61ad52",
-    "path_bootloader": "FW009/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "FW009/PART.enc",
-    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
-    "cloud_source": {
-      "customer_id": "VENDING_ID_VHI",
-      "version": "MDB_0.0.12_RFID",
-      "description": "FW sử dụng thẻ nội bộ, không dùng được 4G.",
-      "status": "stable"
-    },
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW009",
-    "_folder_name": "FW009"
   },
   {
     "fw_id": "FW010",
@@ -203,6 +85,82 @@
     "_folder_name": "FW013"
   },
   {
+    "fw_id": "FW007",
+    "device_type": "VEND_V3_FR",
+    "version": "v1.3",
+    "path": "FW007/FW.enc",
+    "md5": "95377dba49c58deaa89b5fd9fba2ac64",
+    "path_bootloader": "FW007/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW007/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "VENDING_V3_FRONTEND",
+      "version": "v1.3.1_VENDING_V3",
+      "description": "Feature WiFi, default OC 1500mA, option pay via MPOS.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW007",
+    "_folder_name": "FW007"
+  },
+  {
+    "fw_id": "FW005",
+    "device_type": "4nut",
+    "version": "v0.1",
+    "path": "FW005/FW.enc",
+    "md5": "6e6265b074661676b33b40fcac3a4be8",
+    "path_bootloader": "FW005/BOTL.enc",
+    "md5_bootloader": "045226077d11092f00382c4d75a19a9c",
+    "path_partition": "FW005/PART.enc",
+    "md5_partition": "06409ce18ef9a01088dfcef7aa010f79",
+    "cloud_source": {
+      "customer_id": "QR_4_BUTTON",
+      "version": "v0.1.5_CLIENT_VHITEK_NP",
+      "description": "MẶT NGANG, OUTPUT XUNG.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW005",
+    "_folder_name": "FW005"
+  },
+  {
+    "fw_id": "FW009",
+    "device_type": "VIV",
+    "version": "MDB_0",
+    "path": "FW009/FW.enc",
+    "md5": "3b49023ae67c422c396aefe95d61ad52",
+    "path_bootloader": "FW009/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW009/PART.enc",
+    "md5_partition": "5d98cd1382fec9da0a0251f035901fe0",
+    "cloud_source": {
+      "customer_id": "VENDING_ID_VHI",
+      "version": "MDB_0.0.12_RFID",
+      "description": "FW sử dụng thẻ nội bộ, không dùng được 4G.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW009",
+    "_folder_name": "FW009"
+  },
+  {
+    "fw_id": "FW001",
+    "device_type": "GSDD",
+    "version": "v2.3",
+    "path": "FW001/FW.enc",
+    "md5": "afcb510c1079887996e77690cdf96fb5",
+    "path_bootloader": "FW001/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "FW001/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "cloud_source": {
+      "customer_id": "GIAT_SAY_DIEN_DUNG",
+      "version": "v2.3.0_DRYER_AND_WASHER",
+      "description": "Add enable read pulse and out pulse read.",
+      "status": "stable"
+    },
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\FW001",
+    "_folder_name": "FW001"
+  },
+  {
     "fw_id": "TTP27",
     "device_type": "FLASHPOD",
     "version": "V1.0.0",
@@ -215,5 +173,47 @@
     "md5_partition": "06409ce18ef9a01088dfcef7aa010f79",
     "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\TTP27",
     "_folder_name": "TTP27"
+  },
+  {
+    "fw_id": "F100",
+    "device_type": "STM32F411",
+    "version": "V1",
+    "description": "blink led",
+    "path": "F100/FW.bin",
+    "md5": "56d59300162f33438cbb469fc766a5d8",
+    "path_bootloader": "",
+    "md5_bootloader": "",
+    "path_partition": "",
+    "md5_partition": "",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F100",
+    "_folder_name": "F100"
+  },
+  {
+    "fw_id": "F101",
+    "device_type": "STM32F1",
+    "version": "v1",
+    "description": "demo fw",
+    "path": "F101/FW.bin",
+    "md5": "52c39e8fde66a95b415e2ad4e9e99953",
+    "path_bootloader": "",
+    "md5_bootloader": "",
+    "path_partition": "",
+    "md5_partition": "",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F101",
+    "_folder_name": "F101"
+  },
+  {
+    "fw_id": "F103",
+    "device_type": "STM32",
+    "version": "PWM",
+    "description": "PWM led",
+    "path": "F103/FW.bin",
+    "md5": "76eb138af449fc61a38f5a89fc816184",
+    "path_bootloader": "",
+    "md5_bootloader": "",
+    "path_partition": "",
+    "md5_partition": "",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F103",
+    "_folder_name": "F103"
   }
 ]
