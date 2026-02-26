@@ -1,5 +1,33 @@
 [
   {
+    "fw_id": "4nut",
+    "device_type": "4NUT",
+    "version": "DP",
+    "description": "QR  4 NUT DOC XUNG",
+    "path": "4nut/FW.enc",
+    "md5": "dc01043d78e92a477106518eed150bb1",
+    "path_bootloader": "4nut/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "4nut/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\4nut",
+    "_folder_name": "4nut"
+  },
+  {
+    "fw_id": "4nutng",
+    "device_type": "4NUT",
+    "version": "NP",
+    "description": "QR 4 NUT NGANG XUNG",
+    "path": "4nutng/FW.enc",
+    "md5": "c608311408fb0655ff375f79ad2964c6",
+    "path_bootloader": "4nutng/BOTL.enc",
+    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
+    "path_partition": "4nutng/PART.enc",
+    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\4nutng",
+    "_folder_name": "4nutng"
+  },
+  {
     "fw_id": "FW009",
     "device_type": "VIV",
     "version": "MDB_0",
@@ -215,33 +243,5 @@
     "md5_partition": "",
     "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F103",
     "_folder_name": "F103"
-  },
-  {
-    "fw_id": "4nut",
-    "device_type": "4NUT",
-    "version": "DP",
-    "description": "QR  4 NUT DOC XUNG",
-    "path": "4nut/FW.enc",
-    "md5": "dc01043d78e92a477106518eed150bb1",
-    "path_bootloader": "4nut/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "4nut/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\4nut",
-    "_folder_name": "4nut"
-  },
-  {
-    "fw_id": "4nutng",
-    "device_type": "4NUT",
-    "version": "NP",
-    "description": "QR 4 NUT NGANG XUNG",
-    "path": "4nutng/FW.enc",
-    "md5": "c608311408fb0655ff375f79ad2964c6",
-    "path_bootloader": "4nutng/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "4nutng/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\4nutng",
-    "_folder_name": "4nutng"
   }
 ]
