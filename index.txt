@@ -1,17 +1,17 @@
 [
   {
-    "fw_id": "4nut",
+    "fw_id": "F200",
     "device_type": "4NUT",
-    "version": "DP",
-    "description": "QR  4 NUT DOC XUNG",
-    "path": "4nut/FW.enc",
-    "md5": "dc01043d78e92a477106518eed150bb1",
-    "path_bootloader": "4nut/BOTL.enc",
+    "version": "0.1.9",
+    "description": "ng27/02",
+    "path": "F200/FW.enc",
+    "md5": "8de482fd5ad56f92a3e4102169e7e01c",
+    "path_bootloader": "F200/BOTL.enc",
     "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "4nut/PART.enc",
+    "path_partition": "F200/PART.enc",
     "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\4nut",
-    "_folder_name": "4nut"
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F200",
+    "_folder_name": "F200"
   },
   {
     "fw_id": "4nutng",
@@ -243,19 +243,5 @@
     "md5_partition": "",
     "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F103",
     "_folder_name": "F103"
-  },
-  {
-    "fw_id": "4nutdoc",
-    "device_type": "4nut D",
-    "version": "DP",
-    "description": "4 nut doc xung",
-    "path": "4nutdoc/FW.enc",
-    "md5": "7fa869b1ff645db99e6a54622e11af4f",
-    "path_bootloader": "4nutdoc/BOTL.enc",
-    "md5_bootloader": "bd0635cfa246da005cc26ad81dbe5602",
-    "path_partition": "4nutdoc/PART.enc",
-    "md5_partition": "e29d9e794a2e44c3007b6284e6dd576c",
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\4nutdoc",
-    "_folder_name": "4nutdoc"
   }
 ]
