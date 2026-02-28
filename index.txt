@@ -1,5 +1,47 @@
 [
   {
+    "fw_id": "F150",
+    "device_type": "STM32 V3.1",
+    "version": "OTA",
+    "description": "demo nap v3.1",
+    "path": "F150/FW.bin",
+    "md5": "52c39e8fde66a95b415e2ad4e9e99953",
+    "path_bootloader": "",
+    "md5_bootloader": "",
+    "path_partition": "",
+    "md5_partition": "",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F150",
+    "_folder_name": "F150"
+  },
+  {
+    "fw_id": "F105",
+    "device_type": "STM32",
+    "version": "NHIP TIM",
+    "description": "DEMO LED",
+    "path": "F105/FW.bin",
+    "md5": "dce325c119b5214456d7ed0e0d9213e2",
+    "path_bootloader": "",
+    "md5_bootloader": "",
+    "path_partition": "",
+    "md5_partition": "",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F105",
+    "_folder_name": "F105"
+  },
+  {
+    "fw_id": "F103",
+    "device_type": "STM32",
+    "version": "PWM",
+    "description": "PWM led",
+    "path": "F103/FW.bin",
+    "md5": "76eb138af449fc61a38f5a89fc816184",
+    "path_bootloader": "",
+    "md5_bootloader": "",
+    "path_partition": "",
+    "md5_partition": "",
+    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F103",
+    "_folder_name": "F103"
+  },
+  {
     "fw_id": "F200",
     "device_type": "4NUT",
     "version": "0.1.9",
@@ -175,20 +217,6 @@
     "_folder_name": "FW001"
   },
   {
-    "fw_id": "F105",
-    "device_type": "STM32",
-    "version": "NHIP TIM",
-    "description": "DEMO LED",
-    "path": "F105/FW.bin",
-    "md5": "dce325c119b5214456d7ed0e0d9213e2",
-    "path_bootloader": "",
-    "md5_bootloader": "",
-    "path_partition": "",
-    "md5_partition": "",
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F105",
-    "_folder_name": "F105"
-  },
-  {
     "fw_id": "TTP27",
     "device_type": "FLASHPOD",
     "version": "V1.0.0",
@@ -229,19 +257,5 @@
     "md5_partition": "",
     "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F101",
     "_folder_name": "F101"
-  },
-  {
-    "fw_id": "F103",
-    "device_type": "STM32",
-    "version": "PWM",
-    "description": "PWM led",
-    "path": "F103/FW.bin",
-    "md5": "76eb138af449fc61a38f5a89fc816184",
-    "path_bootloader": "",
-    "md5_bootloader": "",
-    "path_partition": "",
-    "md5_partition": "",
-    "_path": "C:/Users/DELL/workspace/IDF/ESP_MUL/Muti/toolAddFirmware/dist2/FlashPorter/firmware_library\\F103",
-    "_folder_name": "F103"
   }
 ]
